@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <title>Аптека</title>
+  <link rel="stylesheet" href="Style.css" />
+</head>
+<body>
+
+<nav>
+  <ul class="topmenu">
+    <li><a href="">Главная</a></li>
+    <li><a href="">Контакты</a></li>
+    <li><a href="">Блог</a>
+       <ul class="submenu">
+    <li><a href="">О нас</a></li>
+     <li><a href="">Карта ресторанов</a></li>
+     <li><a href="">Оплата</a></li>
+     <li><a href="">Сервис</a></li>
+     </ul>
+    </li>
+    
+    
+    <li><a href="">Нам нужны работники!</a></li>
+  </ul>
+</nav>
+
+<div>
+  <h5>
+   Добро пожаловать! Этот сайт - интернет версия нашей аптеки. 
+   На этом сайте вы можете совершить заказ лекарств в тот или иной филиал нашей компании,а так же немного почитать о нас.
+
+  </h5>
+
+  <img class = "ppp"  src="png-transparent-smiley-emoticon-t-shirt-emoji-smiley-miscellaneous-face-smiley.png">
+</img>
+  
+</div>
+
+
+
+
+
+
+<footer>
+<h5>
+    © Убилава В.Т.
+	</h5>
+
+	
+
+	<img class = "zaz" src="1491580635-yumminkysocialmedia26_83102.png">
+	<img class = "zaz" src="1491580651-yumminkysocialmedia28_83061 (1).png">
+	<img class = "zaz" src="fgfg.png">
+
+	</footer>
